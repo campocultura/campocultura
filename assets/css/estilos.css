@@ -17,3 +17,6 @@ body {
     background-image: url(../img/gallery/fitopatologia.jpg);
 
 }
+.slick-track .slider-bg1 {
+	background-image: url(../img/gallery/arrieras.jpg);
+}
