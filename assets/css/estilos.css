@@ -15,8 +15,33 @@ body {
 
 .slider-bg1 {
     background-image: url(../img/gallery/fitopatologia.jpg);
-
 }
+
 .slick-track .slider-bg1 {
 	background-image: url(../img/gallery/arrieras.jpg);
+}
+
+.visit-tailor-area .tailor-offers {
+	background-image: url(../img/gallery/macadamia.jpg);
+	background-size: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 990px;
+	width: 55%;
+}
+
+.visit-tailor-area .tailor-details h2 {
+	font-size: 33px;
+	color: darksalmon;
+	text-transform: capitalize;
+}
+
+.slider-area .hero__caption h1 {
+	font-size: 115px;
+	font-weight: 400;
+	margin-bottom: 14px;
+	color: #fff;
+	line-height: 1.1;
+	text-transform: inherit;
 }
