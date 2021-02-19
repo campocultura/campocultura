@@ -45,3 +45,11 @@ body {
 	line-height: 1.1;
 	text-transform: inherit;
 }
+
+.section-tittle span {
+	margin-bottom: 20px;
+	display: block;
+	color: #0b8b04;
+	text-transform: uppercase;
+	font-size: 20px;
+}
