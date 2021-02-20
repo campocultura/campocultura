@@ -38,18 +38,19 @@ body {
 }
 
 .slider-area .hero__caption h1 {
-	font-size: 115px;
+	font-size: 100px;
 	font-weight: 400;
 	margin-bottom: 14px;
 	color: #fff;
 	line-height: 1.1;
-	text-transform: inherit;
+	text-transform: initial;
 }
 
 .section-tittle span {
 	margin-bottom: 20px;
 	display: block;
 	color: #0b8b04;
-	text-transform: uppercase;
+	text-transform: inherit;
 	font-size: 20px;
 }
+
