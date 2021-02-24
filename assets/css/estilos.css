@@ -54,3 +54,41 @@ body {
 	font-size: 20px;
 }
 
+/* Imagenes de fondo para cabeceras */
+
+
+.slider-area2 {
+    background-image: url(../img/encabezados/encabezado_about.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: inherit;
+}
+
+.slider-area3 {
+    background-image: url(../img/encabezados/encabezado_que_hacemos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:left;
+}
+
+.slider-area4 {
+    background-image: url(../img/encabezados/suculentas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:bottom;
+}
+
+.slider-area5 {
+    background-image: url(../img/encabezados/huerto\ ecologico.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:inherit;
+}
+
+.slider-area6 {
+    background-image: url(../img/encabezados/reforestacion.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:right
+    ;
+}
